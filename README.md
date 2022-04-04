@@ -11,8 +11,11 @@ import argparse
 ```
 <h3 text align="center"> Usage </h3>
 
-```yml
+```
 sudo network_scanner.py --help
+```
+
+```yml
 usage: network_scanner.py [-h] [-r IP]
 
 optional arguments:

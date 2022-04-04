@@ -11,9 +11,7 @@ import argparse
 ```
 <h3 text align="center"> Usage </h3>
 
-```
-sudo network_scanner.py --help
-```
+<h4> You must be root </h4>
 
 ```yml
 usage: network_scanner.py [-h] [-r IP]

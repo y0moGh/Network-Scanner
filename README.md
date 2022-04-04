@@ -1,5 +1,5 @@
 # Network-Scanner
-Fast and easy network scanning program to discover devices connected on the same network
+Fast and easy network scanning program to discover devices connected on the same network. It works both linux and Windows os.
 
 ---
 
@@ -12,6 +12,7 @@ import argparse
 <h3 text align="center"> Usage </h3>
 
 ```yml
+sudo network_scanner.py --help
 usage: network_scanner.py [-h] [-r IP]
 
 optional arguments:

@@ -1,3 +1,5 @@
+![img](https://img.shields.io/badge/-Every%20OS-9cf) ![img](https://img.shields.io/badge/-python%203.9-blue)
+
 # Network-Scanner
 Fast and easy network scanning program to discover devices connected on the same network.
 

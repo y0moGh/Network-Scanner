@@ -1,5 +1,5 @@
 # Network-Scanner
-Fast and easy network scanning program to discover devices connected on the same network. It works both linux and Windows os.
+Fast and easy network scanning program to discover devices connected on the same network.
 
 ---
 
